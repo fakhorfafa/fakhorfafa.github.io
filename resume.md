@@ -1,5 +1,5 @@
 ## Fakhoor Izaaz Wildhanrahman
----
+--------
 Mahasiswa Ilmu Komputer IPB
 
 *Jl.Anda No. 40 D Rt 007/003 Kel. Ciganjur Kec. Jagakarsa Jakarta Selatan*\
@@ -7,7 +7,7 @@ Mahasiswa Ilmu Komputer IPB
 *fakhor.f@gmail.com*
 
 ## Pendidikan
----
+--------
 ### Institut Pertanian Bogor
 Sep 2017 -- Sekarang: Mahasiswa Calon Sarjana Ilmu Komputer.
 
@@ -16,6 +16,9 @@ Jul 2014 -- Nov 2017
 
 ### SMP Negeri 253 Jakarta Selatan
 Jul 2011 -- Jun 2014
+
+### MI El-Syifa Jakarta Selatan
+Jul 2005 -- Jun 2011
 
 ## Pelatihan
 ---------
