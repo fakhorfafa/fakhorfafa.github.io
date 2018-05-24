@@ -1,40 +1,42 @@
 ## Fakhoor Izaaz Wildhanrahman
 --------
-Mahasiswa Ilmu Komputer IPB
+Student College of Computer Science Bogor Agricultural University
 
 *Jl.Anda No. 40 D Rt 007/003 Kel. Ciganjur Kec. Jagakarsa Jakarta Selatan*\
 *+62 895-3481-63305*\
 *fakhor.f@gmail.com*
 
-## Pendidikan
+## Education
 --------
-### Institut Pertanian Bogor
-Sep 2017 -- Sekarang: Mahasiswa Calon Sarjana Ilmu Komputer.
+### Bogor Agricultural University
+Sep 2017 -- Now
 
-### SMA Negeri 1 Cigombong *--- IPA*
+### Cigombong 1 Senior High School *--- Science*
 Jul 2014 -- Nov 2017
 
-### SMP Negeri 253 Jakarta Selatan
+### 253 South Jakarta Junior High School
 Jul 2011 -- Jun 2014
 
-### MI El-Syifa Jakarta Selatan
+### MI El-Syifa South Jakarta
 Jul 2005 -- Jun 2011
 
-## Pelatihan
+## Training Experience
 ---------
 - Tahsin 1 & 2
-- Menjaga Hati
+- Microsoft Excel
+- Microsoft Word
+- Microsoft Power Point
 
-## Keahlian
+## Skills
 --------
 - Murottal
 - Sketch
 - Minewsper
 - Solitare
 
-## Hobi
+## Hobbies
 ----
 - Listen Murottal
 - Badminton
-- Fakhorfafa
+- Watching Movie
 
