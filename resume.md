@@ -4,7 +4,7 @@ Student College of Computer Science Bogor Agricultural University
 
 *Jl.Anda No. 40 D Rt 007/003 Kel. Ciganjur Kec. Jagakarsa Jakarta Selatan*\
 *+62 895-3481-63305*\
-*fakhor.f@gmail.com*\
+*fakhor.f@gmail.com*
 
 ## Education
 --------
